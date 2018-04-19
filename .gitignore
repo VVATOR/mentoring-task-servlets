@@ -1,0 +1,3 @@
+.*
+!/.gitignore
+KnowledgeManagement/Knowledge-odata-impl/src/main/java/com/wolterskluwer/knowledge/server/util/TestMain.java
